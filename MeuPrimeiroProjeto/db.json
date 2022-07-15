@@ -1,0 +1,8 @@
+{
+  "animals": [
+    { "name": "Turca", "type": "dog", "age": 25 },
+    { "name": "Tete", "type": "gate", "age": 32 },
+    { "name": "vick", "type": "dog", "age": 41 },
+    { "name": "guto", "type": "bird", "age": 96 }
+  ]
+}
